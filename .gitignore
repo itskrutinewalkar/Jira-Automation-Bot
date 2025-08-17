@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Dependency directories
+jspm_packages/
+
+# Serverless framework generated files
+.serverless/
+.serverless_plugins/
+
+# Build output
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor configs
+.vscode/
+.idea/
+
+# Coverage / testing
+coverage/
+.nyc_output/
+
+# Lock files (optional, keep if needed for reproducible builds)
+# package-lock.json
+# yarn.lock
